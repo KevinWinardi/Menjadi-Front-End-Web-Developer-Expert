@@ -15,7 +15,7 @@ class headerContent extends HTMLElement {
                 </div>
                 <nav>
                     <ul id="navigation" class="">
-                        <li><a href="/">Home</a></li>
+                        <li><a href="/Menjadi-Front-End-Web-Developer-Expert/">Home</a></li>
                         <li><a href="#/favorite">Favorite</a></li>
                         <li><a href="https://id.linkedin.com/in/kevin-winardi-a266832b6">About Us</a></li>
                     </ul>
